@@ -75,3 +75,7 @@ The project includes visualizations of the training process and prediction resul
 - Sample Visualizations: Displays random batches of "Healthy" vs. "Tumor" MRI scans.
 
 - Performance Metrics: Training/Validation loss graphs and confusion matrix analysis.
+
+- Number of Epochs: 600
+
+- Training Accuracy Improvement: 63.3% (From 36.7% to 100%)
