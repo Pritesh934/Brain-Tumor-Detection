@@ -58,7 +58,11 @@ Data is split into training and validation sets to ensure robust model performan
 # 🚀 Getting Started
 **Prerequisites**
 
-Install the required libraries: Bash: _pip install torch torchvision numpy opencv-python matplotlib scikit-learn_
+Install the required libraries: 
+
+```bash
+pip install torch torchvision numpy opencv-python matplotlib scikit-learn
+```
 
 **Usage**
 
@@ -66,7 +70,11 @@ Install the required libraries: Bash: _pip install torch torchvision numpy openc
 
 2) Ensure the dataset is located in ./data/brain_tumor_dataset/ with subfolders yes and no.
 
-3) Run the Jupyter Notebook to train the model and visualize results: Bash: _jupyter notebook Brain-Tumor-Detection.ipynb_
+3) Run the Jupyter Notebook to train the model and visualize results:
+
+```bash
+jupyter notebook Brain-Tumor-Detection.ipynb
+```
 
 # 📊 Results
 
